@@ -25,7 +25,7 @@ void setup()
 
 void loop()
 {
-  sendMsg("IN3GJH/B"); //Remember to replace it with your callsign/message!
+  sendMsg("m/5b4anu"); //Remember to replace it with your callsign/message!
   Serial.print("DELAY: ");
   Serial.print(PAUSE);
   Serial.println(" s");
